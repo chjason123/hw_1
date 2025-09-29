@@ -4,6 +4,11 @@
 
 `two_counter` 是一個 VHDL 模組，實現了兩個獨立計數器的功能。每個計數器都是 8 位元，並且可以設定最小值和最大值。此模組使用有限狀態機 (FSM) 來控制兩個計數器之間的切換。
 
+## 模擬結果
+<img width="942" height="265" alt="image" src="https://github.com/user-attachments/assets/201f8a04-e2a9-4b4f-9c5b-be5b89af63e6" />
+<img width="1050" height="261" alt="image" src="https://github.com/user-attachments/assets/bf8e4c2a-b8d4-466b-bd12-d5bbc9a6b1eb" />
+
+
 ## 模組介面
 
 ### Generic 參數
